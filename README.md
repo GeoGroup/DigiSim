@@ -1,4 +1,4 @@
-                                                   DigiSim
+#                                               DigiSim
 Digital image based Simulation Toolbox DigiSim is an open source software package for digital image processing
 based micromechanical Simulation. It is an easy, user-friendly and ready-to-use software developed using Matlab. 
 The main object of this code is to model the micromechanical behavior of heterogeneous material based on the image
@@ -8,7 +8,7 @@ Besides, it also can be employed to extract the microstructure of material like 
 If you find it is useful in your research, please kindly cite the following articles 
 in your publication.
 
-[1] Meng Q-X, Xu W-Y, Wang H-L, Zhuang X-Y, Xie W-C, Timon Rabczuk. DigiSim ¡ª An Open Source
+[1] Meng Q-X, Xu W-Y, Wang H-L, Zhuang X-Y, Xie W-C, Timon Rabczuk. DigiSim Â¡Âª An Open Source
  Software Package for Heterogeneous Material Modeling Based on Digital Image Processing. Advances in Engineering Software. (To be published)
 
 [2]	Meng Q. X., Wang H. L., Xu W. Y., et al. A coupling method incorporating digital image 
