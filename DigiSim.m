@@ -172,12 +172,16 @@ function pushbutton1_Callback(hObject, eventdata, handles)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    structure with handles and user data (see GUIDATA)
 % addpath subroutine
-global FileName PathName
+global FileName PathName I
 [FileName,PathName] = uigetfile('*.jpg','Select the digital image file');
 fn=[PathName,FileName];
 I=imread(fn);
+I=I(:,:,1);
+I(I<200)=0;
+I(I>200)=1;
 axes(handles.axes3)
-imshow(I);
+imshow(I*255);
+I=1-I;
 
 
 
@@ -191,13 +195,15 @@ function pushbutton2_Callback(hObject, eventdata, handles)
 % handles    structure with handles and user data (see GUIDATA)
 addpath subroutine
 addpath resource
-global FileName PathName P
+global FileName PathName P I
 fn=[PathName,FileName];
 error=str2double(get(handles.edit1,'String'));
 scale=str2double(get(handles.edit2,'String'));
 set(handles.pushbutton2,'String','Please Waiting');
 pause(0.001);
-[P] = vectorization2(fn,error);
+disp(fn);
+disp(size(I));
+[P] = vectorization2(I,error);
 
 P=geom_scale(P,scale);
 % I=imread(fn);

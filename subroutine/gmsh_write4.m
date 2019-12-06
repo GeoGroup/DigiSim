@@ -1,5 +1,6 @@
 function [boun_line]=gmsh_write4(Pleft,Pright,Pdown,Pup,P1,P2,P3,P4,Pmain,Pmain2,PB,k1,k2,k3,k4,k5,gmsh_file,lc,lc2)
 %write the file into gmsh
+
 fid=fopen(gmsh_file,'wt+');
 fprintf(fid,'lc = %10.4f;\n',lc);
 fprintf(fid,'lc2 = %10.4f;\n',lc2);
@@ -573,8 +574,9 @@ for i=1:k5
 end
 fprintf(fid,'%s\n','};');
 
- 
+
 fclose(fid);
+
 % point=point(1:np,:);
 % pline=pline(1:nl,:);
 

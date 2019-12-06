@@ -28,8 +28,8 @@ while ij==1
         end
     else
         k=k+1;
-        vert(k,:)=P2(pos_1,:);
-        lline(pos_1,:)=[];
+        vert(k,:)=P2(pos_1(1),:);
+        lline(pos_1(1),:)=[];
         %lline=setdiff(lline,lline(pos_1,:),'rows');
     end
     if vert(k,:)==vert2

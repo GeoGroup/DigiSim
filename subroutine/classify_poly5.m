@@ -15,7 +15,7 @@ Ly=max(P{length(P)}(:,2));
 %                       .                      .       
 %                       .                      .   
 %                       1.................... 4 
-% k1-4denote the particle number at four noudanry direction k5 means the interier particle
+% k1-4denote the particle number at four boudanry direction k5 means the interier particle
 k1=0;k2=0;k3=0;k4=0;k5=0; 
 Pleft=cell(1,1);Pright=cell(1,1);
 Pdown=cell(1,1);Pup=cell(1,1);
