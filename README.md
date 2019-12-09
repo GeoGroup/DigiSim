@@ -15,6 +15,6 @@ If you want to use these codes, Please cite the following articles:
 
 4. Lanlan Yang, Weiya Xu*, Qingxiang Meng, Wei-Chau Xie, Huanling Wang, Mengcheng Sun. Numerical Determination of RVE for Heterogeneous Geomaterials Based on Digital Image Processing technology [J]. Processes, 2019, 7(6): 346.
 
-5. Yan L, Meng Q-x, Xu W-y, Wang H-l, Zhang Q, Zhang J-C, et al. A numerical method for analyzing the permeability of heterogeneous geomaterials based on digital image processing. Journal of Zhejiang University-SCIENCE A. 2017;18:124-37.
+5. Yan L, Meng QX*, Xu WY, Wang HL, Zhang Q, Zhang JC, et al. A numerical method for analyzing the permeability of heterogeneous geomaterials based on digital image processing. Journal of Zhejiang University-SCIENCE A. 2017;18:124-37.
 
 
