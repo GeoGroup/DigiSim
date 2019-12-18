@@ -7,7 +7,7 @@ Authors: Qing-xiang Meng , Lanlan Yang, Yue Li,  Long Yan
 
 If you want to use these codes, Please cite the following articles:
 
-1. Meng QX, Xu W.Y, Wang HL, Zhuang XY, Xie W-C, Timon Rabczuk, DigiSim — An Open Source Software Package for Heterogeneous Material Modeling Based on Digital Image Processing, Advances in Engineering Software, To be published
+1. Meng QX, Xu W.Y, Wang HL, Zhuang XY, Xie W-C, Timon Rabczuk, DigiSim — An Open Source Software Package for Heterogeneous Material Modeling Based on Digital Image Processing, Advances in Engineering Software, Under revision
 
 2. Meng QX, Wang HL, Xu WY, Zhang Q. A coupling method incorporating digital image processing and discrete element method for modeling of geomaterials. Eng Computation. 2018;35:411-31.
 
