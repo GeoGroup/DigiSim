@@ -45,6 +45,7 @@ end
 
 
 % --- Executes just before DigiSim is made visible.
+% update
 function DigiSim_OpeningFcn(hObject, eventdata, handles, varargin)
 % This function has no output args, see OutputFcn.
 % hObject    handle to figure
