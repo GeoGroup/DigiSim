@@ -18,4 +18,5 @@ If you want to use these codes, Please cite the following articles:
 5. Yan L, Meng QX*, Xu WY, Wang HL, Zhang Q, Zhang JC, et al. A numerical method for analyzing the permeability of heterogeneous geomaterials based on digital image processing. Journal of Zhejiang University-SCIENCE A. 2017;18:124-37.
 
 
-<a href="11"> <img src="https://github.com/taichi-dev/public_files/raw/master/taichi/fractal_code.png" height="270px"></a>
+<!-- <a href="11"> <img src="https://github.com/taichi-dev/public_files/raw/master/taichi/fractal_code.png" height="270px"></a> -->
+<a href="11"> <img src="[https://github.com/taichi-dev/public_files/raw/master/taichi/fractal_code.png](https://github.com/future-water/future-water.github.io/blob/main/images/state_estimation.png)" height="270px"></a>
