@@ -1,4 +1,4 @@
-# DigiSim
+﻿# DigiSim
 Matlab toolbox for digital image based simulation 
 
 DigiSim is an open source software package for digital image processing based micromechanical Simulation. Both 2D bitmap and 3D volumetric images are supported. It is an easy, user-friendly and ready-to-use software developed using Matlab. The main object of this code is to model the micromechanical behavior of heterogeneous material based on the image captured by CT, MRI or digital camera. Both FEM and DEM model can be generated using DigiSim package. Besides, it also can be employed to extract the microstructure of material like inclusions, pores and cracks. 
@@ -20,3 +20,5 @@ If you want to use these codes, Please cite the following articles:
 
 <!-- <a href="11"> <img src="https://github.com/taichi-dev/public_files/raw/master/taichi/fractal_code.png" height="270px"></a> -->
 <a href="11"> <img src="https://github.com/future-water/future-water.github.io/blob/main/images/state_estimation.png" height="270px"></a>
+
+<a href="11"> <img src="https://github.com/GeoGroup/DigiSim/blob/master/DigiSim.jpg" height="270px"></a>
